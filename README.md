@@ -3,7 +3,7 @@ THE WORLD WHERE THE SOUL FINDS PEACE
 <html lang="en">
 <head>
         <meta name="google-site-verification" content="5l0t4vOhXmelyOYoGXwJVA-H7F2y0SS2dJTMA0D_c4k" />
-    body {
+        body {
             margin: 0;
             font-family: Arial, sans-serif;
             background: linear-gradient(to bottom, black, baby pink, yellow);
