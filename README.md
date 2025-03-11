@@ -8,6 +8,7 @@ THE WORLD WHERE THE SOUL FINDS PEACE
     <title>The Echoed Tales</title>
     <style>
         /* General styles */
+     <meta name="google-site-verification" content="5l0t4vOhXmelyOYoGXwJVA-H7F2y0SS2dJTMA0D_c4k" />
         body {
             margin: 0;
             font-family: Arial, sans-serif;
