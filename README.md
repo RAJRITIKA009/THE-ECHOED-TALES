@@ -3,13 +3,8 @@ THE WORLD WHERE THE SOUL FINDS PEACE
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Echoed Tales</title>
-    <style>
-        /* General styles */
-     <meta name="google-site-verification" content="5l0t4vOhXmelyOYoGXwJVA-H7F2y0SS2dJTMA0D_c4k" />
-        body {
+        <meta name="google-site-verification" content="5l0t4vOhXmelyOYoGXwJVA-H7F2y0SS2dJTMA0D_c4k" />
+    body {
             margin: 0;
             font-family: Arial, sans-serif;
             background: linear-gradient(to bottom, black, baby pink, yellow);
