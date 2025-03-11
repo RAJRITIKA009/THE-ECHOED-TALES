@@ -1,6 +1,5 @@
 # THE-ECHOED-TALES
 THE WORLD WHERE THE SOUL FINDS PEACE
-<!DOCTYPE html>
 <html lang="en">
 <head>
         <meta name="google-site-verification" content="5l0t4vOhXmelyOYoGXwJVA-H7F2y0SS2dJTMA0D_c4k" />
