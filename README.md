@@ -2,8 +2,7 @@
 THE WORLD WHERE THE SOUL FINDS PEACE
 <html lang="en">
 <head>
-        analytics.js
-        body {
+body {
             margin: 0;
             font-family: Arial, sans-serif;
             background: linear-gradient(to bottom, black, baby pink, yellow);
