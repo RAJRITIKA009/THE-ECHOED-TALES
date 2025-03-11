@@ -1,8 +1,14 @@
 # THE-ECHOED-TALES
 THE WORLD WHERE THE SOUL FINDS PEACE
+               <!DOCTYPE html>
 <html lang="en">
 <head>
-body {
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Echoed Tales</title>
+    <style>
+        /* General styles */
+        body {
             margin: 0;
             font-family: Arial, sans-serif;
             background: linear-gradient(to bottom, black, baby pink, yellow);
